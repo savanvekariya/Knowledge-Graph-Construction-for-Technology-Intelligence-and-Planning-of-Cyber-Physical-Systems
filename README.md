@@ -68,8 +68,8 @@ Resources:-
 - **File Format:** OWL File
 - **Content Description:** Genial ontology
 
-### File #7: LLM_InnovationOntologyKG.html
+### File #8: LLM_InnovationOntology.owl
 
-- **Filename:** LLM_InnovationOntologyKG.html
-- **File Format:** HTML File
+- **Filename:** LLM_InnovationOntology.owl
+- **File Format:** OWL File
 - **Content Description:** Innovation ontology
